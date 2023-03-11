@@ -4,6 +4,7 @@
     "dotenv": "^16.0.3"
   },
   "name": "discordbot",
+  
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
