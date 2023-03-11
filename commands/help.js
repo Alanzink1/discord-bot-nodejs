@@ -2,6 +2,7 @@ const { SlashCommandBuilder, EmbedBuilder } = require("discord.js");
 
 // inside a command, event listener, etc.
 const exampleEmbed = new EmbedBuilder()
+
   .setColor("Orange")
   .setTitle("Comandos Dave")
   .setURL("https://www.youtube.com/watch?v=C3K6QX-xp8Q")
